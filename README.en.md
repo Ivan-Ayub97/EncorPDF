@@ -19,6 +19,42 @@ For inquiries or feedback, contact me at: [sellocasadenubes@gmail.com](sellocasa
 
 ---
 
+## How to Use
+
+1. **Open a PDF file:**
+   - Right-click on the PDF file you want to open.
+   - Select "Open with" and choose **EncorPDF.exe** from the list of available applications.
+   - Preferably, select the option **"Choose another app"**.
+   - Then, select **EncorPDF.exe** from the list and check the option **"Always use this app to open .pdf files"** (or the equivalent option that appears in your version of Windows).
+2. **Navigate through the document:**
+   - Use the arrow buttons or enter a specific page number.
+3. **Adjust the zoom:**
+   - Click the zoom in/out buttons to change the display size.
+4. **Change layouts:**
+   - Use the dropdown menu to switch between one, two, or four-page views.
+5. **Enjoy smooth viewing:**
+   - Explore your PDF with an intuitive and responsive interface.
+
+### Installation Issue
+
+During installation, you may encounter the following error:
+
+```
+Error creating registry key HKEY_CURRENT_USER\Software\EncorPDF; code 5
+Access denied.
+```
+![App Screenshot](ErrorScreen.png)
+
+When this happens, you will see three options:
+
+- **Try again**  
+- **Ignore the error and continue**  
+- **Cancel installation**
+
+Select the **"Ignore the error and continue"** option and follow the steps to complete the installation without issues.
+
+---
+
 ## Features
 - **Interactive Navigation:**
   - Easily move between pages with next, previous, and direct page input options.
@@ -34,20 +70,7 @@ For inquiries or feedback, contact me at: [sellocasadenubes@gmail.com](sellocasa
 
 - **Real-Time Rendering:**
   - Fast and smooth PDF rendering powered by PyMuPDF.
-
----
-
-## How to Use
-1. **Open a PDF File:**
-   - Launch the application and select a PDF file via the file dialog.
-2. **Navigate the Document:**
-   - Use the arrow buttons or input a specific page number.
-3. **Adjust Zoom:**
-   - Click the zoom in/out buttons to modify the display size.
-4. **Switch Layouts:**
-   - Use the dropdown menu to toggle between single, dual, or quad-page views.
-5. **Enjoy Seamless Viewing:**
-   - Explore your PDF with an intuitive and responsive interface.
+  
 
 ---
 
