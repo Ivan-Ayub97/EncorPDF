@@ -10,6 +10,25 @@ Desarrollado por Iván Eduardo Chávez Ayub
 
 [Haz clic aquí para descargar la aplicación EXE desde Google Drive (.zip)](https://drive.google.com/file/d/1uJ-vlT_PdXx6s9G17OtJrR7Z-6Ll5C00/view?usp=sharing)
 
+### Problema durante la instalación
+
+Al instalar la aplicación, es posible que aparezca el siguiente error:
+
+```
+Error creating registry key HKEY_CURRENT_USER\Software\EncorPDF; code 5
+Acceso denegado.
+```
+![Captura de la aplicación](ErrorScreen.png)
+
+
+Cuando esto ocurra, verás tres opciones:
+
+- **Try again**  
+- **Ignore the error and continue**  
+- **Cancel installation**
+
+Selecciona la opción **"Ignore the error and continue"** y sigue los pasos para completar la instalación sin problemas.
+
 Para consultas o comentarios, contáctame en: [sellocasadenubes@gmail.com](sellocasadenubes@gmail.com).
 
 ![Icono de EncorPDF](EncorPDF.PNG)
@@ -21,33 +40,6 @@ Para consultas o comentarios, contáctame en: [sellocasadenubes@gmail.com](sello
 **EncorPDF Viewer** ofrece una forma intuitiva de ver, navegar e interactuar con documentos PDF. Con funciones integradas como zoom, diseño multipágina y un tema diseñado para facilitar la lectura, está pensado tanto para usuarios casuales como para profesionales.
 
 ---
-
-## Cómo usar
-
-1. **Abrir un archivo PDF:**
-   - Haz clic derecho sobre el archivo PDF que deseas abrir.
-   - Selecciona "Abrir con" y elige **EncorPDF.exe** de la lista de aplicaciones disponibles.
-   - De preferencia, selecciona la opción **"Elegir otra aplicación"**.
-   - Luego, escoge **EncorPDF.exe** de la lista y marca la opción **"Usar siempre esta aplicación para abrir archivos .pdf"** (o la opción equivalente que aparezca en tu versión de Windows).
-2. **Navegar por el documento:**
-   - Usa los botones de flecha o ingresa un número de página específico.
-3. **Ajustar el zoom:**
-   - Haz clic en los botones de acercar/alejar para modificar el tamaño de visualización.
-4. **Cambiar diseños:**
-   - Usa el menú desplegable para alternar entre vistas de una, dos o cuatro páginas.
-5. **Disfruta de una visualización fluida:**
-   - Explora tu PDF con una interfaz intuitiva y receptiva.
-
-### Problema durante la instalación
-
-Al instalar la aplicación, es posible que aparezca el siguiente error:
-
-```
-Error creating registry key HKEY_CURRENT_USER\Software\EncorPDF; code 5
-Acceso denegado.
-```
-![Captura de la aplicación](ErrorScreen.png)
-
 
 Cuando esto ocurra, verás tres opciones:
 
