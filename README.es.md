@@ -10,6 +10,8 @@ Desarrollado por Iván Eduardo Chávez Ayub
 
 [Haz clic aquí para descargar la aplicación EXE desde Google Drive (.zip)](https://drive.google.com/file/d/1uJ-vlT_PdXx6s9G17OtJrR7Z-6Ll5C00/view?usp=sharing)
 
+--
+
 ### Problema durante la instalación
 
 Al instalar la aplicación, es posible que aparezca el siguiente error:
@@ -30,6 +32,8 @@ Cuando esto ocurra, verás tres opciones:
 Selecciona la opción **"Ignore the error and continue"** y sigue los pasos para completar la instalación sin problemas.
 
 Para consultas o comentarios, contáctame en: [sellocasadenubes@gmail.com](sellocasadenubes@gmail.com).
+
+---
 
 ![Icono de EncorPDF](EncorPDF.PNG)
 
