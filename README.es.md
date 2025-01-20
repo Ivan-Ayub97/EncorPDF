@@ -48,7 +48,8 @@ Para consultas o comentarios, contáctame en: [sellocasadenubes@gmail.com](sello
 ## Cómo usar
 
 1. **Abrir un archivo PDF:**
-   - Inicia la aplicación y selecciona un archivo PDF mediante el cuadro de diálogo.
+   - Haz clic derecho sobre el archivo PDF que deseas abrir.
+   - Selecciona "Abrir con" y elige **EncorPDF.exe** de la lista de aplicaciones disponibles.
 2. **Navegar por el documento:**
    - Usa los botones de flecha o ingresa un número de página específico.
 3. **Ajustar el zoom:**
