@@ -22,6 +22,41 @@ Para consultas o comentarios, contáctame en: [sellocasadenubes@gmail.com](sello
 
 ---
 
+## Cómo usar
+
+1. **Abrir un archivo PDF:**
+   - Haz clic derecho sobre el archivo PDF que deseas abrir.
+   - Selecciona "Abrir con" y elige **EncorPDF.exe** de la lista de aplicaciones disponibles.
+   - De preferencia, selecciona la opción **"Elegir otra aplicación"**.
+   - Luego, escoge **EncorPDF.exe** de la lista y marca la opción **"Usar siempre esta aplicación para abrir archivos .pdf"** (o la opción equivalente que aparezca en tu versión de Windows).
+2. **Navegar por el documento:**
+   - Usa los botones de flecha o ingresa un número de página específico.
+3. **Ajustar el zoom:**
+   - Haz clic en los botones de acercar/alejar para modificar el tamaño de visualización.
+4. **Cambiar diseños:**
+   - Usa el menú desplegable para alternar entre vistas de una, dos o cuatro páginas.
+5. **Disfruta de una visualización fluida:**
+   - Explora tu PDF con una interfaz intuitiva y receptiva.
+
+### Problema durante la instalación
+
+Al instalar la aplicación, es posible que aparezca el siguiente error:
+
+```
+Error creating registry key HKEY_CURRENT_USER\Software\EncorPDF; code 5
+Acceso denegado.
+```
+
+Cuando esto ocurra, verás tres opciones:
+
+- **Try again**  
+- **Ignore the error and continue**  
+- **Cancel installation**
+
+Selecciona la opción **"Ignore the error and continue"** y sigue los pasos para completar la instalación sin problemas.
+
+---
+
 ## Características
 
 - **Navegación interactiva:**
@@ -42,24 +77,6 @@ Para consultas o comentarios, contáctame en: [sellocasadenubes@gmail.com](sello
 
 - **Renderizado en tiempo real:**
   - Renderizado rápido y fluido de PDF gracias a PyMuPDF.
-
----
-
-## Cómo usar
-
-1. **Abrir un archivo PDF:**
-   - Haz clic derecho sobre el archivo PDF que deseas abrir.
-   - Selecciona "Abrir con" y elige **EncorPDF.exe** de la lista de aplicaciones disponibles.
-2. **Navegar por el documento:**
-   - Usa los botones de flecha o ingresa un número de página específico.
-3. **Ajustar el zoom:**
-   - Haz clic en los botones de acercar/alejar para modificar el tamaño de visualización.
-4. **Cambiar diseños:**
-   - Usa el menú desplegable para alternar entre vistas de una, dos o cuatro páginas.
-5. **Disfruta de una visualización fluida:**
-   - Explora tu PDF con una interfaz intuitiva y receptiva.
-
----
 
 ## Requisitos del sistema
 
