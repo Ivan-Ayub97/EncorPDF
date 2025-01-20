@@ -32,35 +32,7 @@ Selecciona la opción **"Ignore the error and continue"** y sigue los pasos para
 
 Para consultas o comentarios, contáctame en: [sellocasadenubes@gmail.com](sellocasadenubes@gmail.com).
 
-
 ---
-
-## Descripción
-
-**EncorPDF Viewer** ofrece una forma intuitiva de ver, navegar e interactuar con documentos PDF. Con funciones integradas como zoom, diseño multipágina y un tema diseñado para facilitar la lectura, está pensado tanto para usuarios casuales como para profesionales.
-
----
-
-## Características
-
-- **Navegación interactiva:**
-
-  - Desplázate fácilmente entre páginas con opciones de siguiente, anterior e ingreso directo de número de página.
-
-- **Controles de zoom:**
-
-  - Ajusta los niveles de zoom dinámicamente con botones dedicados.
-
-- **Diseños multipágina:**
-
-  - Elige entre vistas de 1, 2 o 4 páginas para una mejor experiencia de lectura.
-
-- **Tema oscuro:**
-
-  - Interfaz moderna en modo oscuro para reducir la fatiga visual.
-
-- **Renderizado en tiempo real:**
-  - Renderizado rápido y fluido de PDF gracias a PyMuPDF.
 
 ## Requisitos del sistema
 
@@ -78,12 +50,6 @@ La interfaz basada en PyQt5 incluye:
 - Controles de navegación para el movimiento entre páginas y zoom.
 - Un menú desplegable para cambiar el diseño de páginas.
 
-### Módulos principales
-
-1. **Motor de renderizado:** Utiliza PyMuPDF para un renderizado rápido de PDFs.
-2. **Controles de UI:** Construidos con PyQt5 para asegurar un diseño receptivo y accesible.
-3. **Gestión de temas:** Implementa un tema oscuro consistente en todos los elementos.
-
 ---
 
 ## Capturas
@@ -92,7 +58,7 @@ La interfaz basada en PyQt5 incluye:
 
 ---
 
-## Desarrollo y contribuciones
+## Desarrollo
 
 ### Créditos
 
