@@ -43,16 +43,6 @@ Para consultas o comentarios, contáctame en: [sellocasadenubes@gmail.com](sello
 
 ---
 
-Cuando esto ocurra, verás tres opciones:
-
-- **Try again**  
-- **Ignore the error and continue**  
-- **Cancel installation**
-
-Selecciona la opción **"Ignore the error and continue"** y sigue los pasos para completar la instalación sin problemas.
-
----
-
 ## Características
 
 - **Navegación interactiva:**
