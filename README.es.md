@@ -47,6 +47,8 @@ Error creating registry key HKEY_CURRENT_USER\Software\EncorPDF; code 5
 Acceso denegado.
 ```
 ![Captura de la aplicación](ErrorScreen.png)
+
+
 Cuando esto ocurra, verás tres opciones:
 
 - **Try again**  
