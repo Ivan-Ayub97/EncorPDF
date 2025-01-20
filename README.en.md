@@ -1,7 +1,3 @@
-Aquí tienes la versión en inglés del README:
-
----
-
 # EncorPDF Viewer
 
 Developed by Iván Eduardo Chávez Ayub
