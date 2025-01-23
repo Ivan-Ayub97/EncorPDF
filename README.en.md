@@ -18,12 +18,13 @@ During installation, you might encounter the following error:
 Error creating registry key HKEY_CURRENT_USER\Software\EncorPDF; code 5
 Access denied.
 ```
+
 ![Application Error Screenshot](ErrorScreen.png)
 
 When this happens, you will see three options:
 
-- **Try again**  
-- **Ignore the error and continue**  
+- **Try again**
+- **Ignore the error and continue**
 - **Cancel installation**
 
 Select **"Ignore the error and continue"** and proceed with the installation steps without issues.
@@ -37,6 +38,27 @@ For questions or feedback, contact me at: [sellocasadenubes@gmail.com](mailto:se
 - **Operating System:** Windows 10 or later.
 
 ---
+
+## Version 2.0 Highlights
+
+The latest version of **EncorPDF Viewer** introduces exciting new features and improvements:
+
+- **Export PDF Pages to PNG:**
+
+  - Easily export individual pages of a PDF document as high-quality PNG images.
+
+- **Page Rotation:**
+
+  - Rotate pages clockwise or counterclockwise to suit your viewing preference.
+
+- **Enhanced Multi-Page Viewing:**
+
+  - Improved layout and functionality for viewing multiple pages simultaneously.
+
+- **Modernized GUI:**
+  - A revamped graphical interface with better color balance and a more modern look.
+
+These updates make **EncorPDF Viewer 2.0** even more powerful and user-friendly for a wide range of tasks.
 
 ## Application Structure
 

@@ -1,11 +1,11 @@
 [Setup]
 ; Configuración básica de la instalación
 AppName=EncorPDF
-AppVersion=1.1
+AppVersion=2.0
 DefaultDirName={pf}\EncorPDF
 DefaultGroupName=EncorPDF
 OutputDir=.\Output
-OutputBaseFilename=EncorPDF_Installer
+OutputBaseFilename=EncorPDF2.0_Installer
 SetupIconFile=C:\Users\negro\Desktop\EncorPDF\EncorPDF.ico
 Compression=lzma
 SolidCompression=yes

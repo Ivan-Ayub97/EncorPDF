@@ -10,7 +10,6 @@ Desarrollado por Iván Eduardo Chávez Ayub
 
 [Haz clic aquí para descargar la aplicación EXE desde Google Drive (.zip)](https://drive.google.com/file/d/1uJ-vlT_PdXx6s9G17OtJrR7Z-6Ll5C00/view?usp=sharing)
 
-
 ## Problema durante la instalación
 
 Al instalar la aplicación, es posible que aparezca el siguiente error:
@@ -19,13 +18,13 @@ Al instalar la aplicación, es posible que aparezca el siguiente error:
 Error creating registry key HKEY_CURRENT_USER\Software\EncorPDF; code 5
 Acceso denegado.
 ```
-![Captura de la aplicación](ErrorScreen.png)
 
+![Captura de la aplicación](ErrorScreen.png)
 
 Cuando esto ocurra, verás tres opciones:
 
-- **Try again**  
-- **Ignore the error and continue**  
+- **Try again**
+- **Ignore the error and continue**
 - **Cancel installation**
 
 Selecciona la opción **"Ignore the error and continue"** y sigue los pasos para completar la instalación sin problemas.
@@ -37,6 +36,26 @@ Para consultas o comentarios, contáctame en: [sellocasadenubes@gmail.com](sello
 ## Requisitos del sistema
 
 - **Sistema operativo:** Windows 10 o posterior.
+
+---
+
+## Aspectos destacados de la versión 2.0
+
+La última versión de **EncorPDF Viewer** presenta nuevas y emocionantes funciones y mejoras:
+
+- **Exportar páginas PDF a PNG:**
+- Exportar fácilmente páginas individuales de un documento PDF como imágenes PNG de alta calidad.
+
+- **Rotación de página:**
+- Gire las páginas en el sentido de las agujas del reloj o en sentido contrario a las agujas del reloj para adaptarse a sus preferencias de visualización.
+
+- **Visualización de varias páginas mejorada:**
+- Diseño y funcionalidad mejorados para ver varias páginas simultáneamente.
+
+- **GUI modernizada:**
+- Una interfaz gráfica renovada con un mejor equilibrio de color y un aspecto más moderno.
+
+Estas actualizaciones hacen que **EncorPDF Viewer 2.0** sea aún más potente y fácil de usar para una amplia gama de tareas.
 
 ---
 
