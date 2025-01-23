@@ -8,7 +8,7 @@ Developed by Iván Eduardo Chávez Ayub
 
 ## Download
 
-[Click here to download the EXE application from Google Drive (.zip)](https://drive.google.com/file/d/1uJ-vlT_PdXx6s9G17OtJrR7Z-6Ll5C00/view?usp=sharing)
+[Click here to download the EXE application from Google Drive (.zip)](https://drive.google.com/file/d/1dTKplwTzInqTGAkrG0aiial4PqrSJbcB/view?usp=sharing)
 
 ## Installation Issue
 
