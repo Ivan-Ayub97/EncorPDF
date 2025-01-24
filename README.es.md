@@ -40,14 +40,6 @@ Para preguntas o comentarios, contáctame en: [sellocasadenubes@gmail.com](mailt
    - Selecciona "Abrir con" y elige **EncorPDF.exe** de la lista de aplicaciones disponibles.
    - Preferiblemente, selecciona la opción **"Elegir otra aplicación"**.
    - Luego, selecciona **EncorPDF.exe** de la lista y marca la opción **"Usar siempre esta aplicación para abrir archivos .pdf"** (o la opción equivalente en tu versión de Windows).
-2. **Navegar por el documento:**
-   - Usa los botones de flechas o ingresa un número de página específico.
-3. **Ajustar el zoom:**
-   - Haz clic en los botones de acercar/alejar para cambiar el tamaño de visualización.
-4. **Cambiar diseños:**
-   - Usa el menú desplegable para alternar entre vistas de una, dos o cuatro páginas.
-5. **Disfruta de una visualización fluida:**
-   - Explora tu PDF con una interfaz intuitiva y receptiva.
 
 ---
 
