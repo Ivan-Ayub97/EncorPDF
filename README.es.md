@@ -1,79 +1,97 @@
-# EncorPDF Viewer
+# Visor EncorPDF
 
 Desarrollado por Iván Eduardo Chávez Ayub
 
-**EncorPDF Viewer** es una aplicación de escritorio versátil diseñada para visualizar archivos PDF de manera eficiente. Construida con PyQt5, ofrece una interfaz elegante y personalizable para mejorar la experiencia del usuario.
+**EncorPDF Viewer** es una aplicación de escritorio versátil diseñada para la visualización eficiente de archivos PDF. Construida con PyQt5, ofrece una interfaz elegante y personalizable para mejorar la experiencia del usuario.
 
 ![Icono de EncorPDF](EncorPDF.PNG)
 
-## Descargar
+## Descarga
 
 [Haz clic aquí para descargar la aplicación EXE desde Google Drive (.zip)](https://drive.google.com/file/d/1dTKplwTzInqTGAkrG0aiial4PqrSJbcB/view?usp=sharing)
 
-## Problema durante la instalación
+## Problema de Instalación
 
-Al instalar la aplicación, es posible que aparezca el siguiente error:
+Durante la instalación, podrías encontrar el siguiente error:
 
 ```
 Error creating registry key HKEY_CURRENT_USER\Software\EncorPDF; code 5
-Acceso denegado.
+Access denied.
 ```
 
-![Captura de la aplicación](ErrorScreen.png)
+![Captura de Pantalla del Error](ErrorScreen.png)
 
 Cuando esto ocurra, verás tres opciones:
 
-- **Try again**
-- **Ignore the error and continue**
-- **Cancel installation**
+- **Reintentar**
+- **Ignorar el error y continuar**
+- **Cancelar la instalación**
 
-Selecciona la opción **"Ignore the error and continue"** y sigue los pasos para completar la instalación sin problemas.
+Selecciona **"Ignorar el error y continuar"** y sigue con los pasos de instalación sin problemas.
 
-Para consultas o comentarios, contáctame en: [sellocasadenubes@gmail.com](sellocasadenubes@gmail.com).
-
----
-
-## Requisitos del sistema
-
-- **Sistema operativo:** Windows 10 o posterior.
+Para preguntas o comentarios, contáctame en: [sellocasadenubes@gmail.com](mailto:sellocasadenubes@gmail.com).
 
 ---
 
-## Aspectos destacados de la versión 2.0
+## Cómo Usar
 
-La última versión de **EncorPDF Viewer** presenta nuevas y emocionantes funciones y mejoras:
+1. **Abrir un archivo PDF:**
+   - Haz clic derecho en el archivo PDF que deseas abrir.
+   - Selecciona "Abrir con" y elige **EncorPDF.exe** de la lista de aplicaciones disponibles.
+   - Preferiblemente, selecciona la opción **"Elegir otra aplicación"**.
+   - Luego, selecciona **EncorPDF.exe** de la lista y marca la opción **"Usar siempre esta aplicación para abrir archivos .pdf"** (o la opción equivalente en tu versión de Windows).
+2. **Navegar por el documento:**
+   - Usa los botones de flechas o ingresa un número de página específico.
+3. **Ajustar el zoom:**
+   - Haz clic en los botones de acercar/alejar para cambiar el tamaño de visualización.
+4. **Cambiar diseños:**
+   - Usa el menú desplegable para alternar entre vistas de una, dos o cuatro páginas.
+5. **Disfruta de una visualización fluida:**
+   - Explora tu PDF con una interfaz intuitiva y receptiva.
 
-- **Exportar páginas PDF a PNG:**
-- Exportar fácilmente páginas individuales de un documento PDF como imágenes PNG de alta calidad.
+---
 
-- **Rotación de página:**
-- Gire las páginas en el sentido de las agujas del reloj o en sentido contrario a las agujas del reloj para adaptarse a sus preferencias de visualización.
+## Novedades de la Versión 2.0
 
-- **Visualización de varias páginas mejorada:**
-- Diseño y funcionalidad mejorados para ver varias páginas simultáneamente.
+La última versión de **EncorPDF Viewer** presenta nuevas características y mejoras emocionantes:
 
-- **GUI modernizada:**
-- Una interfaz gráfica renovada con un mejor equilibrio de color y un aspecto más moderno.
+- **Exportar Páginas de PDF a PNG:**
+  - Exporta fácilmente páginas individuales de un documento PDF como imágenes PNG de alta calidad.
+
+- **Rotación de Páginas:**
+  - Rota las páginas en sentido horario o antihorario según tu preferencia.
+
+- **Visualización Mejorada de Múltiples Páginas:**
+  - Diseño y funcionalidad mejorados para ver varias páginas simultáneamente.
+
+- **Interfaz Gráfica Modernizada:**
+  - Una interfaz renovada con mejor equilibrio de colores y un diseño más moderno.
 
 Estas actualizaciones hacen que **EncorPDF Viewer 2.0** sea aún más potente y fácil de usar para una amplia gama de tareas.
 
 ---
 
-## Estructura de la aplicación
+## Requisitos del Sistema
 
-### Interfaz de usuario (UI)
+- **Sistema Operativo:** Windows 10 o superior.
+
+---
+
+## Estructura de la Aplicación
+
+### Interfaz de Usuario (UI)
 
 La interfaz basada en PyQt5 incluye:
 
 - Un widget central para renderizar páginas PDF.
-- Controles de navegación para el movimiento entre páginas y zoom.
-- Un menú desplegable para cambiar el diseño de páginas.
+- Controles de navegación para moverse entre páginas y hacer zoom.
+- Un menú desplegable para cambiar los diseños de página.
 
 ---
 
-## Capturas
+## Capturas de Pantalla
 
-![Captura de la aplicación](Capture.png)
+![Captura de la Aplicación](Capture.png)
 
 ---
 
@@ -94,10 +112,10 @@ Agradecimientos especiales a la comunidad de código abierto por proporcionar es
 
 1. Haz un fork del repositorio.
 2. Realiza tus cambios.
-3. Envía una pull request.
+3. Envía un pull request.
 
 ---
 
-¡Disfruta usando **EncorPDF Viewer**! Tus comentarios siempre son bienvenidos para ayudarnos a mejorar la aplicación.
+Disfruta usando **EncorPDF Viewer**. Tu retroalimentación siempre es bienvenida para ayudarnos a mejorar la aplicación.
 
 ---
