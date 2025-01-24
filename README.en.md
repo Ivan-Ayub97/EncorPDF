@@ -33,9 +33,21 @@ For questions or feedback, contact me at: [sellocasadenubes@gmail.com](mailto:se
 
 ---
 
-## System Requirements
+## How to Use
 
-- **Operating System:** Windows 10 or later.
+1. **Open a PDF file:**
+   - Right-click on the PDF file you want to open.
+   - Select "Open with" and choose **EncorPDF.exe** from the list of available applications.
+   - Preferably, select the option **"Choose another app"**.
+   - Then, select **EncorPDF.exe** from the list and check the option **"Always use this app to open .pdf files"** (or the equivalent option that appears in your version of Windows).
+2. **Navigate through the document:**
+   - Use the arrow buttons or enter a specific page number.
+3. **Adjust the zoom:**
+   - Click the zoom in/out buttons to change the display size.
+4. **Change layouts:**
+   - Use the dropdown menu to switch between one, two, or four-page views.
+5. **Enjoy smooth viewing:**
+   - Explore your PDF with an intuitive and responsive interface.
 
 ---
 
@@ -59,6 +71,14 @@ The latest version of **EncorPDF Viewer** introduces exciting new features and i
   - A revamped graphical interface with better color balance and a more modern look.
 
 These updates make **EncorPDF Viewer 2.0** even more powerful and user-friendly for a wide range of tasks.
+
+---
+
+## System Requirements
+
+- **Operating System:** Windows 10 or later.
+
+---
 
 ## Application Structure
 
