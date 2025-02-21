@@ -43,7 +43,7 @@ Para preguntas o comentarios, contáctame en: [sellocasadenubes@gmail.com](mailt
 
 ---
 
-## Novedades de la Versión 2.0
+## Novedades de la Versión 3.0
 
 La última versión de **EncorPDF Viewer** presenta nuevas características y mejoras emocionantes:
 
