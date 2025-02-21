@@ -8,7 +8,7 @@ Desarrollado por Iván Eduardo Chávez Ayub
 
 ## Descarga
 
-[Haz clic aquí para descargar la aplicación EXE desde Google Drive (.zip)](https://drive.google.com/file/d/1dTKplwTzInqTGAkrG0aiial4PqrSJbcB/view?usp=sharing)
+[Haz clic aquí para descargar la aplicación EXE desde Google Drive (.zip)](https://drive.google.com/file/d/1DqXS2DoZXKkYiaHDriXfmLxDR7KdycJ9/view?usp=sharing)
 
 ## Problema de Instalación
 
