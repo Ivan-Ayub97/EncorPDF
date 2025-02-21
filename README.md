@@ -59,7 +59,7 @@ La última versión de **EncorPDF Viewer** presenta nuevas características y me
 - **Interfaz Gráfica Modernizada:**
   - Una interfaz renovada con mejor equilibrio de colores y un diseño más moderno.
 
-Estas actualizaciones hacen que **EncorPDF Viewer 2.0** sea aún más potente y fácil de usar para una amplia gama de tareas.
+Estas actualizaciones hacen que **EncorPDF Viewer 3.0** sea aún más potente y fácil de usar para una amplia gama de tareas.
 
 ---
 
