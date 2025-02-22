@@ -47,9 +47,6 @@ Para preguntas o comentarios, contáctame en: [sellocasadenubes@gmail.com](mailt
 
 La última versión de **EncorPDF Viewer** presenta nuevas características y mejoras emocionantes:
 
-- **Exportar Páginas de PDF a PNG:**
-  - Exporta fácilmente páginas individuales de un documento PDF como imágenes PNG de alta calidad.
-
 - **Rotación de Páginas:**
   - Rota las páginas en sentido horario o antihorario según tu preferencia.
 
