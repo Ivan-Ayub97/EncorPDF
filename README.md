@@ -2,7 +2,7 @@
 
 Desarrollado por Iván Eduardo Chávez Ayub
 
-**EncorPDF Viewer** es una aplicación de escritorio versátil diseñada para la visualización eficiente de archivos PDF. Construida con PyQt5, ofrece una interfaz elegante y personalizable para mejorar la experiencia del usuario.
+**EncorPDF Viewer** es una aplicación de escritorio versátil diseñada para la visualización eficiente de archivos PDF. Construida con PyQt6, ofrece una interfaz elegante y personalizable para mejorar la experiencia del usuario.
 
 ![Icono de EncorPDF](EncorPDF.PNG)
 
